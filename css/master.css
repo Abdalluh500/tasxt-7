@@ -1,0 +1,221 @@
+
+
+.blue{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(0, 217, 255);
+  position: absolute;
+  bottom: 280px;
+  left: 11px;
+  margin-left: 200px;
+}
+
+.green{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(24 129 72);
+  position: absolute;
+  bottom: 272px;
+  left: 19px;
+  margin-left: 200px;
+}
+
+
+
+.red{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(232 15 45);
+  position: absolute;
+  bottom: 260px;
+  left: 30px;
+  margin-left: 200px;
+}
+
+
+.black{
+
+  width: 10px;
+  height: 10px;
+  background-color: rgb(0 0 0);
+  position: absolute;
+  bottom: 200px;
+  left:210px;
+
+}
+
+ 
+.-div{
+  border-color: rgb(244 67 54) rgb(33 130 243)  ;
+  border-style:solid ;
+ border-width:    5px; ; 
+background-color: rgba(238, 238, 238, 0.808);
+padding: 20px;
+margin-top: 185px;
+position: relative;
+max-width: 100%;
+display: block;
+padding: 3px;
+
+}
+
+
+.top-left{
+  position: absolute;
+  width: 8px;
+  height: 15px;
+top:  -10px;
+left:  -10px; 
+background-color:
+rgb(33 130 243);
+padding: 5px; 
+text-align: center; 
+-webkit-text-stroke: thick;
+}
+
+
+.top-right
+{
+  position: absolute;
+  width: 8px;
+  height: 15px;
+top:  -10px;
+right:  -10px; 
+background-color: rgb(33 130 243);
+padding: 5px; 
+text-align: center; 
+-webkit-text-stroke: thick;
+}
+
+.bottom-right{
+  position: absolute;
+  width: 8px;
+  height: 15px;
+bottom: -10px;
+right: -10px; 
+background-color: rgb(33 130 243);
+padding: 5px; 
+text-align: center; 
+-webkit-text-stroke: thick;
+}
+
+
+.bottom-left{
+  position: absolute;
+  width: 8px;
+  height: 15px;
+bottom:  -10px;
+left:  -10px; 
+background-color: rgb(33 130 243);
+padding: 5px; 
+text-align: center; 
+-webkit-text-stroke: thick;
+}
+
+
+
+
+ul{
+  background-color: rgb(238 238 238) ;
+  display: block;
+  list-style-type:disc ;
+  margin-bottom: 10px;
+  list-style-position: outside;
+}
+
+
+ul li{
+  margin: top 10px;;
+}
+
+
+ol{
+    background-color: rgb(255, 255, 255);
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+
+.-table{
+
+margin: left 75px;;
+  padding: 15px; 
+ width: 100%;
+ border-spacing: 0px;
+}
+
+
+
+
+table tbody{
+  background-color: rgb(238 238 238);
+
+}
+
+
+table td{
+  padding: 15px;
+
+}
+
+
+
+
+
+.td{
+  background-color: rgb(3 169 244);
+  text-align: center;
+  transition: duration 100s;
+color:white ;
+}
+
+
+.-td{
+  background-color: rgb(233 30 99);
+  text-align: center;
+  transition: duration 100s;
+color:white ;
+}
+
+
+.codye{
+  width: 30px;
+  height: 30px;
+}
+
+
+.noc          {
+  width: 30px;
+  height: 30px;
+}
+
+
+table thead{
+  background-color:black;
+  color:white;
+  text-align: center;
+}
+
+
+.-buttom{
+  background-color: rgb(233 30 99);
+  border-color: rgb(233 30 99);
+  border-style:solid ;
+  border-width: 3px;
+  color:white;  
+}
+
+     
+
+button{ 
+
+  background-color:rgb(3 169 244);
+  border-color: rgb(3 169 244);
+  border-style:solid ;
+  border-width: 3px;
+  color:white;
+}
+
+
+
